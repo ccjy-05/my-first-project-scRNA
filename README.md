@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1425292579.svg)](https://doi.org/10.5281/zenodo.23477375)
 # Single-cell Transcriptomic Analysis of Spermatogenesis and Virtual Knockout
 
 This repository contains the R scripts for single-cell RNA sequencing (scRNA-seq) analysis of mouse testis tissue. The pipeline includes data quality control, clustering, cell type annotation across the spermatogenesis trajectory, and downstream virtual knockout simulations (using `scTenifoldKnk`) for target genes (e.g., *stmn1a* and *tubb2b*).
